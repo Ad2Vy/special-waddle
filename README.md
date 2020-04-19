@@ -20,5 +20,5 @@ P3             2               3
 P4             4               1
 -------------------------------------
 # Executation
-![](https://ibb.co/QK0kXSN)
+![](code.png)
 provide input and the program will return avg waiting and avg turnaround time
