@@ -19,4 +19,6 @@ P2             1               3
 P3             2               3
 P4             4               1
 -------------------------------------
-# code
+# Executation
+![](https://imgur.com/FbQFIUt)
+provide input and the program will return avg waiting and avg turnaround time
