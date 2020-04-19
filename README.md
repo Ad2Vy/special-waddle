@@ -20,5 +20,6 @@ P3             2               3
 P4             4               1
 -------------------------------------
 # Executation
-![](code.png)
+![](code.png) goto code.Png in the repsitory
+
 provide input and the program will return avg waiting and avg turnaround time
